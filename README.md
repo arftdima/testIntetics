@@ -17,3 +17,8 @@
 	      A[j] := false
 
 	Выход: числа i, для которых A[i] = true.
+
+
+information about the project: .Net framework 4.7, C#7.0
+
+lead time: точно не могу сказать, писал частями, примерно 1-2 часа  
