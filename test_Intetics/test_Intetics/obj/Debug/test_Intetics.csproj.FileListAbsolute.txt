@@ -1,0 +1,7 @@
+c:\users\dima\documents\visual studio 2017\Projects\test_Intetics\test_Intetics\obj\Debug\test_Intetics.csprojResolveAssemblyReference.cache
+c:\users\dima\documents\visual studio 2017\Projects\test_Intetics\test_Intetics\obj\Debug\test_Intetics.csproj.CoreCompileInputs.cache
+c:\users\dima\documents\visual studio 2017\Projects\test_Intetics\test_Intetics\bin\Debug\test_Intetics.exe.config
+c:\users\dima\documents\visual studio 2017\Projects\test_Intetics\test_Intetics\bin\Debug\test_Intetics.exe
+c:\users\dima\documents\visual studio 2017\Projects\test_Intetics\test_Intetics\bin\Debug\test_Intetics.pdb
+c:\users\dima\documents\visual studio 2017\Projects\test_Intetics\test_Intetics\obj\Debug\test_Intetics.exe
+c:\users\dima\documents\visual studio 2017\Projects\test_Intetics\test_Intetics\obj\Debug\test_Intetics.pdb
