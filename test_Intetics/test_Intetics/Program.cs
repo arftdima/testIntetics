@@ -10,7 +10,7 @@ namespace test_Intetics
     {
         static void Main(string[] args)
         {
-            //generate_file_of_prime_numbers(10000, 99999, "prNum.txt");
+            generate_file_of_prime_numbers(10000, 99999, "prNum.txt");
             var a = new List<long>();
             using (var sr = new StreamReader("prNum.txt", Encoding.Default))
             {
